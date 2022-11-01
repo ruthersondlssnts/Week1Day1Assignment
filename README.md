@@ -1,2 +1,2 @@
 # Week1Day1Assignment
-Created with CodeSandbox
+Created by Rutherson Delos Santos
